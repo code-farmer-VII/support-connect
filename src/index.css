@@ -39,8 +39,8 @@ All colors MUST be HSL.
     --muted-foreground: 0 0% 9%;
 
     /* Accent - Cyan */
-    --accent: 142 76.2162% 36.2745%;
-    --accent-foreground: 186 93.5484% 81.7647%;
+    --accent: 156 71.5976% 66.8627%;
+    --accent-foreground: 160 84.0796% 39.4118%;
 
     /* Status colors */
     --status-pending: 40 95% 55%;
