@@ -27,7 +27,7 @@ All colors MUST be HSL.
 
     /* Primary brand - Teal */
     --primary: 161 93% 30%;
-    --primary-foreground: 175 83.8509% 31.5686%;
+    --primary-foreground: 186 93.5484% 81.7647%;
     --primary-hover: 185 80% 40%;
 
     /* Secondary - Light teal */
@@ -40,7 +40,7 @@ All colors MUST be HSL.
 
     /* Accent - Cyan */
     --accent: 142 76.2162% 36.2745%;
-    --accent-foreground: 173 80% 40%;
+    --accent-foreground: 186 93.5484% 81.7647%;
 
     /* Status colors */
     --status-pending: 40 95% 55%;
